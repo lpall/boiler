@@ -1,0 +1,14 @@
+/* =========================================== */
+/*                   Global                    */
+/* =========================================== */
+footer
+{
+  position: fixed;
+  bottom: 5px;
+  right: 0px;
+  background-color: grey;
+  color: white;
+  opacity: 0.5;
+  padding: 0 20px 0 20px;
+  border-radius: 5px 0 0 0;
+}
