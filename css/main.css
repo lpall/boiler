@@ -12,3 +12,10 @@ footer
   padding: 0 20px 0 20px;
   border-radius: 5px 0 0 0;
 }
+
+#main_content
+{
+  width: 50%;
+  background-color: dodgerblue;
+  opacity: 0.9;
+}
